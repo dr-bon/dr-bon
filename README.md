@@ -32,10 +32,11 @@
 ![Affinity Publisher](https://img.shields.io/badge/Affinity%20Publisher-white?style=flat&logo=affinitypublisher&logoColor=%23891B26&logoSize=auto)
 
 ---
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dr-bon&show_icons=true&theme=noctis_minimus" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dr-bon&layout=compact&langs_count=8&card_width=320&theme=noctis_minimus" />
-</a>
+<div style="display: flex; width: 100%;">
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; width: 100%; height: auto;">
+        <img style="flex: 1; height: 200; width: auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=dr-bon&show_icons=true&theme=noctis_minimus&hide_rank=true">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; width: 100%; height: auto;">
+        <img style="flex: 1; height: 200; width: auto;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dr-bon&layout=compact&langs_count=8&card_width=300&theme=noctis_minimus">
+    </a>
+</div>
