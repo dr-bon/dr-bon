@@ -18,6 +18,7 @@
 ![Qt](https://img.shields.io/badge/Qt-green?style=flat&logo=qt&logoColor=white&logoSize=auto)
 ![C](https://img.shields.io/badge/C-crimson?style=flat&logo=c&logoColor=white&logoSize=auto)
 ![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=cplusplus&logoColor=%2300599C)
+![Rust](https://img.shields.io/badge/Rust-orange?style=flat&logo=rust&logoSize=auto)
 ![Swift](https://img.shields.io/badge/Swift-white?style=flat&logo=swift&logoColor=%23F05138&logoSize=auto)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=%23F7DF1E&logoSize=auto)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&logoColor=%233178C6&logoSize=auto)
